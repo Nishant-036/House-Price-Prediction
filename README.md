@@ -1,4 +1,5 @@
 # House-Price-Prediction
+House price prediction using Python, EDA, visualization and Linear Regression.
 # House Price Prediction using Python
 
 ## Project Overview
